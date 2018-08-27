@@ -1,0 +1,35 @@
+#container {
+	width: 700px;
+	height: 100px;
+	margin: 0 auto;
+	box-shadow: 0 0 1em	#b64a24;
+	background-color: blue;
+}
+
+#content {
+	position: relative;
+	top: 40px;
+	float: right;
+	width: 700px;
+	height: 250px;
+	overflow: scroll;
+	background-color: #8fd3b2;
+}
+
+#container h1{
+	position: relative;
+	top: 30px;
+	color : red;
+}
+
+#content table {
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+
+body {
+	background-image: url('back1.jpg');
+	width : 1300px;
+	height: 600px;
+}

@@ -1,0 +1,66 @@
+#container {
+	width: 980px;
+	margin: 0 auto;
+	box-shadow: 0 0 1em	#b64a24;
+}
+
+#content {
+	float: right;
+	width: 700px;
+	height: 500px;
+	overflow: scroll;
+	background-color: #8fd3b2;
+}
+
+#content h1 {
+	position: relative;
+	left: 20px;
+	color: red;
+}
+
+#content table {
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+
+#content .a {
+	position: relative;
+	left: 30px;
+	top: 40px;
+}
+
+#content .a .btn {
+	font-size: 20px;
+}
+
+#sidebar {
+	float: right;
+	width: 280px;
+	height: 500px;
+	background-color: orange;
+}
+
+#sidebar h2 {
+	position: relative;
+	left: 55px;
+	color: blue;
+}
+
+#sidebar img {
+	position: relative;
+	left: 55px;
+}
+
+header{
+	background-color: red;
+	width: 980px;
+	height: 100px;
+	color : white;
+}
+
+body {
+	background-image: url('back1.jpg');
+	width : 1300px;
+	height: 600px;
+}
